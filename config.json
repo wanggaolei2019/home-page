@@ -1,10 +1,10 @@
 {
 	"head": {
-		"title": "Something",
+		"title": "棒棒糖日记",
 		"favicon": "favicon.ico"
 	},
 	"intro": {
-		"title": "Something",
+		"title": "棒棒糖日记",
 		"subtitle": "Something random.Just to get out of boredom",
 		"enter": "enter",
 		"supportAuthor": false,
@@ -12,7 +12,7 @@
 	},
 	"main": {
 		"name": "wanggl",
-		"signature": "Code & Code & Code",
+		"signature": "Code & Share & Copy",
 		"avatar": {
 			"link": "assets/avatar.jpg",
 			"height": "100",
@@ -35,7 +35,7 @@
 				"text": "Email"
 			},
 			"fourth": {
-				"href": "tencent://AddContact/?fromId=45&amp;fromSubId=1&amp;subcmd=all&amp;uin=718188020&amp;fuin=%20&amp;website=&amp;Menu=yes",
+				"href": "tencent://AddContact/?fromId=50&fromSubId=1&subcmd=all&uin=718188020",
 				"text": "QQ"
 			}
 		}
